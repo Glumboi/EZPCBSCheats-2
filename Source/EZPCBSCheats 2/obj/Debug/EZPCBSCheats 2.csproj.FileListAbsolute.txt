@@ -1,0 +1,22 @@
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.AssemblyReference.cache
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.SuggestedBindingRedirects.cache
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.Properties.Resources.resources
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.GenerateResource.cache
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.CoreCompileInputs.cache
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\EZPCBSCheats 2.exe.config
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\EZPCBSCheats 2.exe
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\EZPCBSCheats 2.pdb
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.exe
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.pdb
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.CopyComplete
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\Telerik.WinControls.xml
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\Telerik.WinControls.UI.xml
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.exe.licenses
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.UI.Spash.Splash_window.resources
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\Memory.xml
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.UI.MainWindow.Main_window.resources
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.UI.SettingsWindow.Settings_window.resources
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.UI.HotkeysWindow.Hotkeys_window.resources
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats 2.csproj.Fody.CopyLocal.cache
+F:\visual studio\repos\EZPCBSCheats 2\EZPCBSCheats 2\obj\Debug\EZPCBSCheats_2.UI.LogWindow.Log_window.resources

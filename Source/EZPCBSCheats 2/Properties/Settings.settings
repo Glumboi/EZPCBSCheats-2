@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EZPCBSCheats_2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConfigFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://pastebin.com/raw/4jn7CXHr</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
